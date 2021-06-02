@@ -1,4 +1,4 @@
-# Review on of your past projects
+# Review one of your past projects
 
 > Play the role of the Code Reviewer
 
