@@ -3,6 +3,7 @@ body {
   margin-left: 20%;
   margin-right: 20%;
 }
+
 #image {
   width: 90%;
   height: auto;
@@ -11,20 +12,24 @@ body {
   margin-right: auto;
   max-width: 100%;
 }
+
 #title {
   text-align: center;
   margin: 30px;
   font-size: 60px;
   color: #161925;
 }
+
 #img-caption {
   font-size: 20px;
   text-align: center;
 }
+
 h3 {
   text-align: center;
   font-size: 25px;
 }
+
 li {
   font-size: 20px;
   margin-bottom: 1rem;
