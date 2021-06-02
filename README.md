@@ -24,3 +24,7 @@ Give a ⭐️ if you like this project!
 
 - Microverse
 - [Yahya Elganyni](https://github.com/yahyaelganyni1)
+
+## 📝 License
+
+This project is [FCC](./license.txt) licensed.
